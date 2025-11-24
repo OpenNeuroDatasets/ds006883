@@ -1,6 +1,0 @@
-filename	acq_time	operator	randstr
-func/sub-2031_ses-1_task-pictures_dir-AP_run-001_bold.nii.gz	2021-12-10T14:49:42.112500	n/a	32a9a5db
-fmap/sub-2031_ses-1_dir-AP_run-003_epi.nii.gz	2021-12-10T14:44:43.185000	n/a	fc43e75b
-fmap/sub-2031_ses-1_dir-PA_run-002_epi.nii.gz	2021-12-10T14:44:23.547500	n/a	21ef7e4c
-fmap/sub-2031_ses-1_dir-AP_run-001_epi.nii.gz	2021-12-10T14:44:02.707500	n/a	7a27e330
-fmap/sub-2031_ses-1_dir-PA_run-004_epi.nii.gz	2021-12-10T14:45:28.445000	n/a	ab0a1cc3
