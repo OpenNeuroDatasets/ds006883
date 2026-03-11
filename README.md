@@ -18,12 +18,13 @@ sub-(timepoint in months)(identifier)
 ### Experimental code
 - The paradigm was run using Psychopy, the protocol can be found at [https://github.com/ClionaOD/foundcog_paradigm](https://github.com/ClionaOD/foundcog_paradigm)
 - Preprocessing used a custom in-house pipeline. This is currently being prepared for sharing and will be made available at [https://github.com/ClionaOD/foundcog_analysis][https://github.com/ClionaOD/foundcog_analysis]. 
-- The GLM used to generate betas is being prepared for sharing and will be made available at [https://github.com/ClionaOD/foundcog_analysis][https://github.com/ClionaOD/foundcog_analysis].   
+- The GLM used to generate betas is being prepared for sharing and will be made available at [https://github.com/ClionaOD/foundcog_analysis](https://github.com/ClionaOD/foundcog_analysis).   
 
 ## O'Doherty et al. (2025), Nature Neuroscience MVPA Analysis
+- Betas available in derivatives/foundcog_glm/betas. Beta values and vcov measurements are shared from the whole brain, aligned to age-appropriate template space. Betas with vcov > 10 were masked from downstream RDM analyses, as described in the paper.
 - Fully anonymised RDMs, including n=101 2-month-olds and n=44 9-month-olds are available in derivatives/foundcog_rdms/.
 - - Some raw data that was included in the publication has not been shared here. This is the case for infants recruited from the NICU and those whose caregivers did not consent to open sharing. 
-- The code used for analysis is being prepared and can be found [https://github.com/ClionaOD/foundcog_analysis][https://github.com/ClionaOD/foundcog_analysis].
+- The code used for analysis is being prepared and can be found [https://github.com/ClionaOD/foundcog_analysis](https://github.com/ClionaOD/foundcog_analysis).
 
 ### The following runs were excluded from the analysis presented in this publication
 - reason: why the run was excluded.
