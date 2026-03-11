@@ -1,0 +1,4 @@
+filename	acq_time	operator	randstr
+func/sub-2089_ses-1_task-pictures_dir-AP_run-001_bold.nii.gz	2023-05-26T12:47:09.827500	n/a	d832f2b2
+fmap/sub-2089_ses-1_dir-PA_run-002_epi.nii.gz	2023-05-26T12:45:14.965000	n/a	f25310f1
+fmap/sub-2089_ses-1_dir-AP_run-001_epi.nii.gz	2023-05-26T12:44:50.622500	n/a	9e01bf3e
