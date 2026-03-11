@@ -17,7 +17,7 @@ sub-(timepoint in months)(identifier)
 
 ### Experimental code
 - The paradigm was run using Psychopy, the protocol can be found at [https://github.com/ClionaOD/foundcog_paradigm](https://github.com/ClionaOD/foundcog_paradigm)
-- Preprocessing used a custom in-house pipeline. This is currently being prepared for sharing and will be made available at [https://github.com/ClionaOD/foundcog_analysis][https://github.com/ClionaOD/foundcog_analysis]. 
+- Preprocessing used a custom in-house pipeline. This is currently being prepared for sharing and will be made available at [https://github.com/ClionaOD/foundcog_analysis](https://github.com/ClionaOD/foundcog_analysis). 
 - The GLM used to generate betas is being prepared for sharing and will be made available at [https://github.com/ClionaOD/foundcog_analysis](https://github.com/ClionaOD/foundcog_analysis).   
 
 ## O'Doherty et al. (2025), Nature Neuroscience MVPA Analysis
